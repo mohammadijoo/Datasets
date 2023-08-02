@@ -24,7 +24,6 @@ predictions = model.predict(X_test)
 
 print("Accuracy: ", accuracy_score(predictions, Y_test))
 
-pd.to_pickle(model,r'classification_logistic_model.pickle')
 
 # Take input from user
 Pregnancies = float(input("Enter Pregnancies: "))
