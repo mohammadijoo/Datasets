@@ -25,10 +25,10 @@ predictions = model.predict(X_test)
 print("Accuracy: ", accuracy_score(predictions, Y_test))
 
 # Take input from user
-sepal_length = float(input("Enter sepal_length: "))
-sepal_width = float(input("Enter sepa_width: "))
-petal_length = float(input("Enter petal_length: "))
-petal_width = float(input("Enter petal_width: "))
+sepal_length = float(input("Enter sepal_length (between 4 and 8): "))
+sepal_width = float(input("Enter sepa_width (between 2 and 5): "))
+petal_length = float(input("Enter petal_length (between 1 and 7): "))
+petal_width = float(input("Enter petal_width (between 0.1 and 3): "))
 
 result = model.predict([[sepal_length,sepal_width,petal_length,petal_width]])  # input must be 2D array
 print("Result: ", result)
