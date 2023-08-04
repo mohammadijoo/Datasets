@@ -26,7 +26,7 @@ print("Accuracy: ", accuracy_score(predictions, Y_test))
 
 # Take input from user
 sepal_length = float(input("Enter sepal_length (between 4 and 8): "))
-sepal_width = float(input("Enter sepa_width (between 2 and 5): "))
+sepal_width = float(input("Enter sepal_width (between 2 and 5): "))
 petal_length = float(input("Enter petal_length (between 1 and 7): "))
 petal_width = float(input("Enter petal_width (between 0.1 and 3): "))
 
