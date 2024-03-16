@@ -22,6 +22,7 @@ Machine Learning Algorithm used for each dataset is, as below:
 
 <details>
   <summary> Here is list of my Websites:  </summary>
+<ul>
   <li> <a href="https://mohammadijoo.ir/en/" target="_blank"> Portfolio </a> </li>
   <li> <a href="https://mohammadijoo.ir/en/blog" target="_blank"> Blog </a> </li>
   <li> <a href="https://abolfazlm.com/" target="_blank"> Video Tutorials </a> </li>
@@ -29,5 +30,5 @@ Machine Learning Algorithm used for each dataset is, as below:
   <li> <a href="https://aspclub.ir/" target="_blank"> ASP.NET Club </a> </li>
   <li> <a href="https://programmer-club.ir/" target="_blank"> Programmers Club </a> </li>
   <li> <a href="https://devops-learn.ir/" target="_blank"> DevOps Engineers Club </a> </li>  
-
+</ul>
 </details>
