@@ -1,5 +1,5 @@
 # Django Club Datasets
-Datasets and Related Python codes in this repository, are for a Web-Based Machine Learning application written with Python and Django framework. This website is available at <a href="https://django3.ir/en" target="_blank"> Django Club </a> 
+Datasets and Related Python codes in this repository, are for a Web-Based Machine Learning application written with Python and Django framework. This website is available at <a href="https://django3.ir/en" target="_blank"> Django Club </a>.  
 This website has CMS functionality and blogging and also Python Machine Learning Models are implemented in Django Web Pages. In a form, you enter variable entries and through Ajax data will sent to the pickle-serialized model and the return of calculation will be sent back to the form. The explanatory video of website functionalities is available at this <a href="http://vid.mohammadijoo.ir/DjangoClub/Django_Club_English.mp4" target="_blank"> link </a>.
 
 
